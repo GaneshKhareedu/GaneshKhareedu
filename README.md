@@ -7,6 +7,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FCFF00)
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=%23F05032)
 
+### Dashboard project
+![Screenshot (500)](https://github.com/GaneshKhareedu/Data-Analysis-Dashboard/blob/main/Dashboard.png)
 
 
 ## Final Conclusion:
