@@ -5,13 +5,8 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FCFF00)
-![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=%23F05032)## Dashboard
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=%23F05032)
 
-
-
-### Dashboard. Project
-
-![Screenshot (500)](https://github.com/GaneshKhareedu/Data-Analysis-Dashboard/blob/main/Dashboard.png)
 
 
 ## Final Conclusion:
