@@ -6,13 +6,14 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FCFF00)
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=%23F05032)## Dashboard
-![Screenshot (500)](https://github.com/dhanush281/Data-Analysis-Dashboard/blob/main/Dashboard.img.png)
 
 
 
 ### Dashboard. Project
 
-![Screenshot (500)](https://github.com/dhanush281/Data-Analysis-Dashboard/blob/main/Dashboard.img)
+![Screenshot (500)](https://github.com/GaneshKhareedu/Data-Analysis-Dashboard/blob/main/Dashboard.png)
+
+
 ## Final Conclusion:
 To improve the sales of Bhaskar Store, a strategic marketing plan focused on area salesman residing in Guntur, Vijayawada, and Ongole should be implemented. This demographic represents a key consumer segment, as they often make significant gadgets and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
